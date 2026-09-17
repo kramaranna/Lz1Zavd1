@@ -1,0 +1,3 @@
+C:\Програмування тут\ЛЗ\Lz1Z1\Lz1Z1\ARM64\Debug\Lz1Z1.vcxproj.AssemblyReference.cache
+C:\Програмування тут\ЛЗ\Lz1Z1\Lz1Z1\ARM64\Debug\Lz1Z1.MyForm.resources
+C:\Програмування тут\ЛЗ\Lz1Z1\Lz1Z1\ARM64\Debug\Lz1Z1.vcxproj.GenerateResource.cache
